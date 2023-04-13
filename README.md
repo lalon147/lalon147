@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm LALON RAHMAN TIRTHA</h1>
-<h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
+<h3 align="center">A DEDICATED MERN stack developer from Bangladesh</h3>
 <img width="1000" src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb6541f31-12b2-4c19-b8ed-a19f2b3a56f9_800x591.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalon147&label=Profile%20views&color=0e75b6&style=flat" alt="lalon147" /> </p>
