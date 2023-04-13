@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm LALON RAHMAN TIRTHA</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img src="[./cartoon.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6f2zaUXIJ4ZSybF0f_Kl1qK5JnzPtWzJZLWVk6NBJU033_YNZZ9RZ9f2UKZj63UtxgMU&usqp=CAU)"/>
+<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb6541f31-12b2-4c19-b8ed-a19f2b3a56f9_800x591.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalon147&label=Profile%20views&color=0e75b6&style=flat" alt="lalon147" /> </p>
 
